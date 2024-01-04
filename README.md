@@ -7,7 +7,7 @@
 ---
 
 | Open source projects Name | Description | ⭐ Stars | 📚 Forks |
-| :--------- | :---------: | :---------: | :---------: |
+| :--------- | :--------- | :---------: | :---------: |
 | [wlc743859910/wlc743859910](https://github.com/wlc743859910/wlc743859910) | Description | <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910" alt="GitHub Forks"> |
 | [wlc743859910/Focus-on](https://github.com/wlc743859910/Focus-on) | Description | <img src="https://img.shields.io/github/stars/wlc743859910/Focus-on" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Focus-on" alt="GitHub Forks"> |
 | [wlc743859910/Google_Hosts](https://github.com/wlc743859910/Google_Hosts) | Description | <img src="https://img.shields.io/github/stars/wlc743859910/Google_Hosts" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Google_Hosts" alt="GitHub Forks"> |
