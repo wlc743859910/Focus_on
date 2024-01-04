@@ -6,7 +6,7 @@
 
 ---
 
-| Open source projects Name | Description | ⭐ Stars | 📚 Forks |
+| 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
 | :--------- | :--------- | :---------: | :---------: |
 | [wlc743859910/wlc743859910](https://github.com/wlc743859910/wlc743859910) | Description | <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910" alt="GitHub Forks"> |
 | [wlc743859910/Focus-on](https://github.com/wlc743859910/Focus-on) | Description | <img src="https://img.shields.io/github/stars/wlc743859910/Focus-on" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Focus-on" alt="GitHub Forks"> |
