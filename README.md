@@ -22,6 +22,16 @@
 
 ---
 
+| 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
+| :--------- | :--------- | :---------: | :---------: |
+| [fatedier/frp](https://github.com/fatedier/frp) | Description | <img src="https://img.shields.io/github/stars/fatedier/frp" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/fatedier/frp" alt="GitHub Forks"> |
+| [ventoy/Ventoy](https://github.com/ventoy/Ventoy) | Description | <img src="https://img.shields.io/github/stars/ventoy/Ventoy" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/ventoy/Ventoy" alt="GitHub Forks"> |
+| [521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520) | Description | <img src="https://img.shields.io/github/stars/521xueweihan/GitHub520" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/521xueweihan/GitHub520" alt="GitHub Forks"> |
+| [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) | Description | <img src="https://img.shields.io/github/stars/AdguardTeam/AdGuardHome" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/AdguardTeam/AdGuardHome" alt="GitHub Forks"> |
+| [notepad-plus-plus/notepad-plus-plus](https://github.com/notepad-plus-plus/notepad-plus-plus) | Description | <img src="https://img.shields.io/github/stars/notepad-plus-plus/notepad-plus-plus" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/notepad-plus-plus/notepad-plus-plus" alt="GitHub Forks"> |
+
+---
+
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
     榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
