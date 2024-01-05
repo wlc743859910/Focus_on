@@ -1,11 +1,8 @@
-# Focus-on
+# 我重点关注的那些优秀的开源项目汇总
 
 ---
 
-我重点关注的那些优秀的开源项目汇总，排名不分先后。
-
----
-
+排名不分先后
 | 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
 | :--------- | :--------- | :---------: | :---------: |
 | [wlc743859910/wlc743859910](https://github.com/wlc743859910/wlc743859910) | Description | <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910" alt="GitHub Forks"> |
@@ -23,6 +20,7 @@
 
 ---
 
+按开源项目名称长短排序，排名不分先后。
 | 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
 | :--------- | :--------- | :---------: | :---------: |
 | [fatedier/frp](https://github.com/fatedier/frp) | Description | <img src="https://img.shields.io/github/stars/fatedier/frp" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/fatedier/frp" alt="GitHub Forks"> |
@@ -34,7 +32,7 @@
 ---
 
 <div align="center">
-    <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
+    <p><sub>↓ --- 感谢读者 --- ↓</sub></p>
     榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
