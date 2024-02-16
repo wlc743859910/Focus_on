@@ -5,8 +5,8 @@
 排名不分先后
 | 🎁 项目 | ✨ 描述 | ⭐ Stars | 📚 Forks |
 | :--------- | :--------- | :---------: | :---------: |
-| [wlc743859910/Focus_on](https://github.com/wlc743859910/Focus_on) | wlc743859910 | <img src="https://img.shields.io/github/stars/wlc743859910/Focus_on" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Focus_on" alt="GitHub Forks"> |
-| [wlc743859910/Focus-on](https://github.com/wlc743859910/Focus-on) | Focus-on | <img src="https://img.shields.io/github/stars/wlc743859910/Focus-on" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Focus-on" alt="GitHub Forks"> |
+| [wlc743859910/wlc743859910](https://github.com/wlc743859910/wlc743859910) | wlc743859910 | <img src="https://img.shields.io/github/stars/wlc743859910/wlc743859910" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/wlc743859910" alt="GitHub Forks"> |
+| [wlc743859910/Focus_on](https://github.com/wlc743859910/Focus_on) | Focus_on | <img src="https://img.shields.io/github/stars/wlc743859910/Focus_on" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Focus_on" alt="GitHub Forks"> |
 | [wlc743859910/Google_Hosts](https://github.com/wlc743859910/Google_Hosts) | Google_Hosts | <img src="https://img.shields.io/github/stars/wlc743859910/Google_Hosts" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Google_Hosts" alt="GitHub Forks"> |
 | [wlc743859910/GitHub_Hosts](https://github.com/wlc743859910/GitHub_Hosts) | GitHub_Hosts | <img src="https://img.shields.io/github/stars/wlc743859910/GitHub_Hosts" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/GitHub_Hosts" alt="GitHub Forks"> |
 | [wlc743859910/SCS_ATS_code](https://github.com/wlc743859910/SCS_ATS_code) | SCS_ATS_code | <img src="https://img.shields.io/github/stars/wlc743859910/SCS_ATS_code" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/SCS_ATS_code" alt="GitHub Forks"> |
