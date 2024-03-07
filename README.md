@@ -27,6 +27,7 @@
 | [wlc743859910/Github_Actions_Simple_Demo](https://github.com/wlc743859910/Github_Actions_Simple_Demo) | Github_Actions_Simple_Demo | <img src="https://img.shields.io/github/stars/wlc743859910/Github_Actions_Simple_Demo" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/Github_Actions_Simple_Demo" alt="GitHub Forks"> |
 | [wlc743859910/GitHub_Weekly_Hot_spot_Summary](https://github.com/wlc743859910/GitHub_Weekly_Hot_spot_Summary) | GitHub_Weekly_Hot_spot_Summary | <img src="https://img.shields.io/github/stars/wlc743859910/GitHub_Weekly_Hot_spot_Summary" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/GitHub_Weekly_Hot_spot_Summary" alt="GitHub Forks"> |
 | [wlc743859910/GitHub_Desktop_Simplified_Chinese](https://github.com/wlc743859910/GitHub_Desktop_Simplified_Chinese) | GitHub_Desktop_Simplified_Chinese | <img src="https://img.shields.io/github/stars/wlc743859910/GitHub_Desktop_Simplified_Chinese" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/GitHub_Desktop_Simplified_Chinese" alt="GitHub Forks"> |
+| [wlc743859910/GitHub_Desktop_Traditional_Chinese](https://github.com/wlc743859910/GitHub_Desktop_Traditional_Chinese) | GitHub_Desktop_Traditional_Chinese | <img src="https://img.shields.io/github/stars/wlc743859910/GitHub_Desktop_Traditional_Chinese" alt="GitHub stars"> | <img src="https://img.shields.io/github/forks/wlc743859910/GitHub_Desktop_Traditional_Chinese" alt="GitHub Forks"> |
 
 ---
 
